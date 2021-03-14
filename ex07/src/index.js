@@ -1,30 +1,19 @@
-var drawImage;
-var newImageName;
-var thisImageNameIsSoLong;
-
-/FOOBOO/
-var studlycapvar;
-var propercapvar;
-var titlecaseover;
-
-/ FooBoo/
-STUDLYCAPVAR = 10;
-PRoperCAmelCAse = "A String";
-tITLECaseOver = 9000;
-
 function main() {
-    / fooboo/
-    / fooboo declarations/
+    
+    var StUdLyCapVar;
+    var properCamelCase;
+    var TitleCaseOver;
 
-    /fooboo assignments/
-
-    /fooboo/
+    STUDLYCAPVAR = 10;
+    PRoperCamelCase = "A String";
+    tITLEcASEoVER = 9000;
     return {
-        studlycapvar,
-        PRoperCAmelCAse,
-        titlecaseover
+        studlyCapVar,
+        properCamelCase,
+        titleCaseOver
+
     }
 }
 
-console.log(main));
+console.log(main);
 module.exports = main;

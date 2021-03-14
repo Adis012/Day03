@@ -1,12 +1,10 @@
-myRes = 17 - 5; /12/
-
-function main(17, 5) {
-    /Number/
-
-    return difference;
-
+function main(numOne, numTwo) {
+    
+    diffrence = numOne - numTwo;
+    return diffrence;
 }
 
-console.log(main(17, 5)); /12/
-
+console.log(main(15, 8));
+console.log(main(25, 8));
+console.log(main(425, 120));
 module.exports = main;

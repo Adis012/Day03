@@ -1,9 +1,7 @@
 function main() {
-
-    console.log("hello world!");
+    console.logm ="Hello World!"
 
 }
 
-main(); 
-
+main();
 module.exports = main;

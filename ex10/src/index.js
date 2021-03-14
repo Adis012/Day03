@@ -1,10 +1,10 @@
-myRes = 25 * 25; /625/
-function main(25, 25) {
-    /number/
-    return product;
+function main(numOne, numTwo) {
 
+    product = numOne * numTwo;
+    return product;
 }
 
-console.log(main(25, 25)); /625/
-
+console.log(main(15, 3));
+console.log(main(25, 8));
+console.log(main(425, 10));
 module.exports = main;
